@@ -12,9 +12,11 @@ body {
   overflow-x: hidden;
 }
 .profile-Img {
-    height: 130px;
+    height: 170px;
     border-radius: 30px;
-    width: 115px;
+    width: 170px;
+    image-rendering: auto;
+    filter: opacity(0.9);
 }
 
 img {
